@@ -13,11 +13,13 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "babel-polyfill": "^6.23.0",
-    "jsxstyle": "^1.0.2",
+    "animated": "^0.2.0",
+    "glamor": "^2.20.24",
+    "glamorous": "^3.7.1",
+    "polished": "^1.0.3",
+    "prop-types": "^15.5.8",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "react-game-kit": "^0.0.2",
     "react-hot-loader": "next",
     "react-media": "^1.5.1",
     "react-router": "^4.0.0"
@@ -29,8 +31,10 @@
     "babel-eslint": "^7.2.1",
     "babel-loader": "^6.4.1",
     "babel-plugin-module-resolver": "^2.6.1",
+    "babel-polyfill": "^6.23.0",
     "babel-preset-env": "^1.2.2",
     "babel-preset-react": "^6.23.0",
+    "babel-preset-react-native": "^1.9.1",
     "babel-preset-stage-2": "^6.22.0",
     "css-loader": "^0.28.0",
     "eslint": "^3.18.0",
