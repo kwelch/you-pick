@@ -1,10 +1,14 @@
 {
+  "plugins": [
+    [
+      "captains-log",
+      {}
+    ],
+    "react-hot-loader/babel"
+  ],
   "presets": [
     "env",
     "react",
     "stage-2"
-  ],
-  "plugins": [
-    "react-hot-loader/babel"
   ]
 }
